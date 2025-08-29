@@ -1,6 +1,12 @@
-# React
+# NeonTech
 
-A modern React-based project utilizing the latest frontend technologies and tools for building responsive web applications.
+⚡ A futuristic, minimalist startup landing page built with Tailwind CSS. Dark theme, neon accents, smooth animations, and a clean layout to showcase products or services.
+
+This website is live at [https://theneontech.netlify.app/](https://theneontech.netlify.app/)
+
+##Preview
+
+[./screenshot.png]
 
 ## 🚀 Features
 
