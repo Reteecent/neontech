@@ -4,9 +4,9 @@
 
 This website is live at [https://theneontech.netlify.app/](https://theneontech.netlify.app/)
 
-##Preview
+## Preview
 
-[./screenshot.png]
+[screenshot.png]
 
 ## 🚀 Features
 
