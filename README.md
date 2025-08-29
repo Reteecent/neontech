@@ -32,8 +32,8 @@ A futuristic, minimalist startup landing page built with **React** and **Tailwin
 ### Installation
 
 ```bash
-git clone https://github.com/Reteecent/neontech_startup.git
-cd neontech_startup
+git clone https://github.com/Reteecent/neontech.git
+cd neontech
 npm install
 ```
 
@@ -59,7 +59,7 @@ The app will run locally at [http://localhost:3000](http://localhost:3000).
 ## Project Structure
 
 ```
-neontech_startup/
+neontech/
 ├── public/
 │   └── index.html
 ├── src/
