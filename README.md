@@ -105,7 +105,7 @@ Contributions, issues, and feature requests are welcome!
 ## Contact
 
 - **Author:** [Reteecent](https://github.com/Reteecent)
-- **Repository:** [github.com/Reteecent/neontech_startup](https://github.com/Reteecent/neontech_startup)
+- **Repository:** [github.com/Reteecent/neontech_startup](https://github.com/Reteecent/neontech)
 
 ---
 
