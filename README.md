@@ -40,7 +40,7 @@ npm install
 ### Running Locally
 
 ```bash
-npm start
+npm run dev
 ```
 
 The app will run locally at [http://localhost:3000](http://localhost:3000).
